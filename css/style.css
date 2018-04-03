@@ -3,7 +3,7 @@
     margin: 0;
 }
 
-:root {
+ :root {
     --orange: #f06023;
     --black: #050505;
     --white: #f6f6f6;
@@ -49,6 +49,7 @@ a {
     padding: 80px;
     margin: 0 auto;
 }
+
 
 /* Preload */
 
@@ -129,6 +130,7 @@ a {
         -webkit-transform: rotate(-360deg);
     }
 }
+
 
 /* Hero Picture */
 
@@ -233,6 +235,7 @@ a {
     }
 }
 
+
 /* Navbar */
 
 #main-nav {
@@ -270,26 +273,18 @@ a {
     width: 100%;
 }
 
+
 /* About-me */
 
 #about-me h1 {
     padding-bottom: 40px;
 }
 
+
 /* Portfolio */
 
 #portfolio {
     background: var(--black);
-}
-
-#portfolio ul {
-    list-style: none;
-    display: inline-block;
-    padding: 10px;
-}
-
-#portfolio li {
-    color: var(--orange);
 }
 
 #portfolio h1 {
@@ -313,6 +308,7 @@ a {
     width: 100%;
     height: 500px;
 }
+
 
 /* Contact */
 
@@ -340,6 +336,7 @@ a {
     padding: 0 5px;
     color: var(--orange);
 }
+
 
 /* Footer */
 
@@ -484,6 +481,7 @@ footer p {
 .mail a:after {
     background-color: #f03a47;
 }
+
 
 /* Media queris */
 
